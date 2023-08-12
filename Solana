@@ -1,3 +1,7 @@
 git init
 git add .
 git commit -m "Initial commit"
+git clone <repository_url>
+git add README.md
+git commit -m "Add initial README.md"
+git push origin master
